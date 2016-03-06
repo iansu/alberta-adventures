@@ -95,7 +95,7 @@ namespace :data_loader do
   desc "Add some pictures to collections"
   task pic_collections: :environment do
     Collection.find_each do | collection |
-      img_filename = collection.name.downcase.gsub(/\s+/, "").gsub(/[^0-9a-z]/i, '')
+      img_filename = collection.name.downcase.gsub(/\s+/, "").gsub(/[^0-9a-z]/i, '') + '.img'
       collection.collection_img = img_filename
       collection.save
     end
