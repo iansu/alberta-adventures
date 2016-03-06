@@ -3,5 +3,5 @@
     %a.adventure-thumbnail{:href => "/adventures/#{adventure.id}"}
       %h3= adventure.name
       %h5= adventure.user.username
-      %img{:src => "http://lorempixel.com/800/140/city/"}
+      %img{:src => "#{image_url adventure.collection_img}"}
       .like-button.glyphicon.glyphicon-heart{:aria_hidden => "true"}

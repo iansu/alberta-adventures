@@ -112,6 +112,10 @@ body {
       letter-spacing: 0.04em;
     }
 
+    img {
+      object-fit: contain;
+    }
+
     .like-button {
       position: absolute;
       top: 10px;
