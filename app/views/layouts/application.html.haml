@@ -1,7 +1,10 @@
 !!!
 %html
   %head
-    %title Alberta Adventures
+    %title Adventure Alberta
+
+    %link{:href => "https://fonts.googleapis.com/css?family=Lobster", :rel => "stylesheet", :type => "text/css"}
+    %link{:href => "https://fonts.googleapis.com/css?family=Cabin", :rel => "stylesheet", :type => "text/css"}
 
     = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true
     = javascript_include_tag 'application', 'data-turbolinks-track' => true
@@ -19,7 +22,10 @@
           %span.icon-bar
           %span.icon-bar
           %span.icon-bar
-        %a.navbar-brand{:href => "/"} Alberta Adventures
+        %a.navbar-brand{:href => "/"}
+          #logo-box
+            #logo
+            Adventure Alberta
       %navbar-collapse-1.navbar-collapse.collapse
         %ul.nav.navbar-nav.navbar-right
           %li
