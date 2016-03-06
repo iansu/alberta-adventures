@@ -85,7 +85,9 @@ namespace :data_loader do
       collection.user_id = user.id
       collection.save
       Location.where(location_type_id: location_type.id).find_each() do |location|
-        collection.locations << location
+        if !collection.locations.exists?(location)
+          collection.locations << location
+        end
       end
     end
   end
@@ -95,6 +97,7 @@ namespace :data_loader do
     Collection.find_each do | collection |
       img_filename = collection.name.downcase.gsub(/\s+/, "").gsub(/[^0-9a-z]/i, '')
       collection.collection_img = img_filename
+      collection.save
     end
   end
 end
