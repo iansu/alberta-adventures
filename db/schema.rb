@@ -11,10 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160306012111) do
+ActiveRecord::Schema.define(version: 20160306031355) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "collection_locations", id: false, force: :cascade do |t|
+    t.integer  "collection_id"
+    t.integer  "location_id"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
+  add_index "collection_locations", ["collection_id"], name: "index_collection_locations_on_collection_id", using: :btree
+  add_index "collection_locations", ["location_id"], name: "index_collection_locations_on_location_id", using: :btree
 
   create_table "collections", force: :cascade do |t|
     t.string   "name"

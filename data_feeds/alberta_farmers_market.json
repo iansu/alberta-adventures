@@ -1,0 +1,527 @@
+{
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(225)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 225, "town" : "Alberta Beach", "marketName" : "Alberta Beach", "afmaMember" : false, "venueName" : "Agriplex ", "venueAddress" : "4811 47 Ave", "schedule" : "Sunday; 12:00 PM - 3:00 PM;  May 10, 2015 - Sep 27, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-962-3993", "contact" : "Phone: 780-690-6392", "longitude" : "-114.34865", "latitude" : "53.67629"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1504)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1504, "town" : "Alliance", "marketName" : "Alliance", "afmaMember" : false, "venueName" : "Alliance Community Hall", "venueAddress" : "114 1st Ave East", "schedule" : "Wednesday; 10:00 AM - 2:00 PM;  Jan 21, 2015 - Dec 16, 2015; Monthly (indoor); 3rd Wednesday of each month", "contact" : "Phone: 780-879-3804", "longitude" : "-111.78458", "latitude" : "52.43594"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(2)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 2, "town" : "Andrew", "marketName" : "Andrew", "afmaMember" : false, "venueName" : "Andrew Arena", "venueAddress" : "5013 51 Ave", "schedule" : "Saturday; 1:00 PM - 3:00 PM;  Apr 4, 2015 - Oct 10, 2015 (indoor); ", "contact" : "Phone: 780-365-3741", "website" : "http://www.andrewagsociety.com/", "longitude" : "-112.33599", "latitude" : "53.87872"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1085)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1085, "town" : "Athabasca", "marketName" : "Athabasca ", "afmaMember" : false, "venueName" : "Athabasca Regional Multiplex", "venueAddress" : "1 University Drive", "schedule" : "Saturday; 11:00 AM - 3:00 PM;  Jan 24, 2015 - May 9, 2015; Every 2nd Week (indoor); ", "schedule" : "Saturday; 10:00 AM - 2:00 PM;  Jun 6, 2015 - Sep 19, 2015 (outdoor); Held at: Riverfront - 50th Ave and 48 Street", "schedule" : "Saturday; 10:00 AM - 2:00 PM;  Oct 3, 2015 - Dec 12, 2015; Every 2nd Week (indoor); ", "contact" : "Phone: 780 675-4398", "website" : "https://athabascafarmersmarket.wordpress.com", "longitude" : "-113.31060", "latitude" : "54.71689"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1124)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1124, "town" : "Banff", "marketName" : "Banff", "afmaMember" : false, "venueName" : null, "venueAddress" : "Bear Street", "schedule" : "Wednesday; 10:00 AM - 6:00 PM;  Jun 17, 2015 - Sep 23, 2015 (outdoor); ", "contact" : "Phone: 403-762-0913", "website" : "http://www.banffmarket.ca", "longitude" : "-115.57245", "latitude" : "51.17671"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(394)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 394, "town" : "Barrhead", "marketName" : "Barrhead", "afmaMember" : false, "venueName" : "Barrhead Agrena (Multi Purpose Room)", "venueAddress" : "5607 47 St", "schedule" : "Saturday; 10:00 AM - 1:00 PM;  May 2, 2015 - Nov 21, 2015 (indoor); ", "contact" : "Phone: 780-674-6802", "longitude" : "-114.39707", "latitude" : "54.11761"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(42)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 42, "town" : "Beaverlodge", "marketName" : "Beaverlodge", "afmaMember" : false, "venueName" : "Ag-Complex", "venueAddress" : "North end of 5th Street", "schedule" : "Tuesday; 5:00 PM - 8:00 PM;  Jan 6, 2015 - Dec 22, 2015 (indoor); ", "schedule" : "Wednesday; 12:00 PM - 3:00 PM;  Jan 7, 2015 - Dec 23, 2015 (indoor); ", "contact" : "Phone: 780-354-8462", "longitude" : "-119.42397", "latitude" : "55.21280"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(43)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 43, "town" : "Bentley", "marketName" : "Bentley", "afmaMember" : false, "venueName" : "Curling Rink ", "venueAddress" : "5218 50 St", "schedule" : "Saturday; 1:30 PM - 3:30 PM;  May 16, 2015 - Sep 5, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-748-4809", "longitude" : "-114.04719", "latitude" : "52.46532"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(944)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 944, "town" : "Bergen", "marketName" : "Bergen", "afmaMember" : false, "venueName" : "Bergen Hall", "venueAddress" : "31547 Rng Rd 53C; 1/4 mile W Highway 760 and Bergen Rd corner", "schedule" : "Saturday; 10:00 AM - 1:00 PM;  Jun 27, 2015 - Sep 12, 2015 (outdoor); ", "contact" : "Phone: 403-638-2356", "website" : "http://thebergenmarket.ca", "longitude" : "-114.64110", "latitude" : "51.70270"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(62)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 62, "town" : "Berwyn", "marketName" : "Berwyn", "afmaMember" : false, "venueName" : "Legion Hall", "venueAddress" : "Main Street", "schedule" : "Saturday; 10:00 AM - 12:00 PM;  May 30, 2015 - Nov 21, 2015; Monthly (indoor); ", "schedule" : "Saturday; 9:00 AM - 2:00 PM;  Aug 8, 2015 - Aug 8, 2015; Annually (indoor); held at Lac Cardinal Museum", "schedule" : "Saturday; 10:00 AM - 4:00 PM;  Nov 14, 2015 - Nov 14, 2015; Annually (indoor); held at Mile Zero Regional Multi-plex", "schedule" : "Saturday; 10:00 AM - 1:00 PM;  Dec 5, 2015 - Dec 5, 2015; Annually (indoor); held at Berwyn Legion", "contact" : "Phone: 780-618-8592", "longitude" : "-117.73373", "latitude" : "56.14663"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(440)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 440, "town" : "Blackfalds", "marketName" : "Blackfalds", "afmaMember" : false, "venueName" : "Blackfalds Community Hall", "venueAddress" : "4810 Womacks Road", "schedule" : "Thursday; 4:00 PM - 7:30 PM;  May 14, 2015 - Oct 1, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-396-4984", "website" : "https://www.facebook.com/Blackfalds.Farmers.Market?ref=br_tf", "longitude" : "-113.79836", "latitude" : "52.38178"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(67)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 67, "town" : "Bonnyville", "marketName" : "Bonnyville", "afmaMember" : false, "venueName" : "Bonnyville Centennial Centre", "venueAddress" : "4313 - 50 Ave", "schedule" : "Saturday; 11:00 AM - 2:00 PM;  Jan 3, 2015 - Dec 19, 2015 (indoor); ", "schedule" : "Saturday; 11:00 AM - 2:00 PM;  Sep 5, 2015 - Sep 5, 2015 (outdoor); Harvest Fair & Country Market, held at Bonnyville Museum Grounds", "contact" : "Phone: 780-826-2669", "website" : "http://www.bonnyvilleagsociety.com", "longitude" : "-110.72557", "latitude" : "54.26809"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(71)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 71, "town" : "Bonnyville", "marketName" : "Bonnyville", "afmaMember" : false, "venueName" : "Bonnyville Fish and Game Building", "venueAddress" : "4402 54 Avenue", "schedule" : "Tuesday; 3:00 PM - 6:30 PM;  Jan 6, 2015 - Nov 24, 2015 (indoor); ", "contact" : "Phone: 780-635-2460", "contact" : "Phone: 780-812-5840", "longitude" : "-110.72684", "latitude" : "54.27183"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1324)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1324, "town" : "Bow Island", "marketName" : "Bow Island", "afmaMember" : false, "venueName" : "Golden Age Club", "venueAddress" : "206 5 Ave East", "schedule" : "Friday; 2:00 PM - 4:30 PM;  Jul 17, 2015 - Sep 11, 2015 (indoor); ", "contact" : "Phone: 403-545-6563", "longitude" : "-111.37655", "latitude" : "49.86969"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(743)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 743, "town" : "Boyle", "marketName" : "Boyle ", "afmaMember" : false, "venueName" : "Boyle Community Centre", "venueAddress" : "5002 3rd St", "schedule" : "Thursday; 1:00 PM - 4:00 PM;  May 14, 2015 - Sep 10, 2015 (indoor); ", "contact" : "Phone: 780-721-2247", "contact" : "Phone: 780-915-5634", "website" : "http://www.facebook.com/BoyleMarket", "longitude" : "-112.80743", "latitude" : "54.58880"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(74)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 74, "town" : "Brooks", "marketName" : "Brooks", "afmaMember" : false, "venueName" : "Kinsmen Building, old rodeo grounds", "venueAddress" : "7St  & 1 Ave SE intersection", "schedule" : "Thursday; 3:00 PM - 6:30 PM;  Jun 4, 2015 - Oct 8, 2015 (outdoor); ", "contact" : "Phone: 403-501-1695", "website" : "https://www.facebook.com/#!/groups/121263754565792/", "longitude" : "-111.89015", "latitude" : "50.57188"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(105)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 105, "town" : "Calgary", "marketName" : "Calgary Bearspaw", "afmaMember" : false, "venueName" : "Bearspaw Lions Hall and Grounds", "venueAddress" : "25240 Nagway Rd", "schedule" : "Sunday; 10:00 AM - 4:00 PM;  Jun 7, 2015 - Oct 4, 2015 (indoor and outdoor); ", "contact" : "Email: farmersmarket@bearspawlions.com", "contact" : "Phone: 403-239-0201", "website" : "http://www.bearspawlions.com", "longitude" : "-114.27765", "latitude" : "51.15662"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1424)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1424, "town" : "Calgary", "marketName" : "Calgary Bridgeland Riverside", "afmaMember" : false, "venueName" : "Bridgeland Riverside Community Assoc. Hall", "venueAddress" : "917 Centre Ave NE", "schedule" : "Thursday; 3:30 PM - 7:00 PM;  Jun 18, 2015 - Oct 8, 2015 (outdoor); ", "contact" : "Phone: 403-263-5755", "website" : "http://www.brcacalgary.org/bridgeland-riverside-farmers-market/", "longitude" : "-114.04072", "latitude" : "51.05204"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(127)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 127, "town" : "Calgary", "marketName" : "Calgary Farmers' Market", "afmaMember" : false, "venueName" : null, "venueAddress" : "510 77th Avenue SE", "schedule" : "Friday; 9:00 AM - 5:00 PM;  Jan 2, 2015 - Dec 18, 2015 (indoor); ", "schedule" : "Saturday; 9:00 AM - 5:00 PM;  Jan 3, 2015 - Dec 19, 2015 (indoor); ", "schedule" : "Sunday; 9:00 AM - 5:00 PM;  Jan 4, 2015 - Dec 20, 2015 (indoor); ", "schedule" : "Thursday; 9:00 AM - 5:00 PM;  Jan 8, 2015 - Dec 17, 2015 (indoor); ", "contact" : "Email: info@calgaryfarmersmarket.ca", "contact" : "Phone: 403-240-9113 ext 103", "website" : "http://www.calgaryfarmersmarket.ca", "photoLink" : "CFMsm.jpg", "longitude" : "-114.05180", "latitude" : "50.98453"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(128)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 128, "town" : "Calgary", "marketName" : "Calgary Grassroots Northland", "afmaMember" : false, "venueName" : "Northland Village Mall", "venueAddress" : "5111 Northland Drive NW (parking lot)", "schedule" : "Tuesday; 3:30 PM - 7:00 PM;  Jun 2, 2015 - Sep 29, 2015 (outdoor); ", "contact" : "Phone: 403-282-9299", "website" : "http://www.northlandmarket.ca", "longitude" : "-114.14160", "latitude" : "51.09861"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(660)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 660, "town" : "Calgary", "marketName" : "Calgary Hillhurst Sunnyside", "afmaMember" : false, "venueName" : "Hillhurst-Sunnyside Community Centre", "venueAddress" : "1320 5 Ave NW", "schedule" : "Wednesday; 3:00 PM - 7:00 PM;  Jan 7, 2015 - May 6, 2015; Bi-Monthly (indoor); 1st & 3rd Wednesday of each month", "schedule" : "Wednesday; 3:00 PM - 7:00 PM;  May 20, 2015 - Oct 7, 2015 (outdoor); ", "schedule" : "Saturday; 9:30 AM - 1:30 PM;  Aug 8, 2015 - Sep 12, 2015 (indoor and outdoor); ", "schedule" : "Wednesday; 3:00 PM - 7:00 PM;  Oct 21, 2015 - May 4, 2016; Bi-Monthly (indoor); 1st and 3rd Wednesday of each month", "contact" : "Phone: 403-283-0554 ext 247", "website" : "http://farmersmarket.hillhurstsunnyside.org/ ", "longitude" : "-114.09263", "latitude" : "51.05710"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1486)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1486, "town" : "Calgary", "marketName" : "Calgary Marda Loop", "afmaMember" : false, "venueName" : "Marda Loop Community Assoc Hall", "venueAddress" : "3130 16 St SW", "schedule" : "Saturday; 9:00 AM - 1:00 PM;  May 30, 2015 - Oct 10, 2015 (outdoor); ", "contact" : "Phone: 403-244-5411", "longitude" : "-114.09961", "latitude" : "51.02673"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(21)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 21, "town" : "Camrose", "marketName" : "Camrose", "afmaMember" : false, "venueName" : "Duggan Mall", "venueAddress" : "6601 - 48 Avenue", "schedule" : "Saturday; 9:00 AM - 2:00 PM;  Jan 3, 2015 - Dec 19, 2015 (indoor); ", "contact" : "Phone: 780-781-5501", "website" : "http://www.camrosefarmersmarket.com", "longitude" : "-112.85564", "latitude" : "53.01792"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(22)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 22, "town" : "Camrose", "marketName" : "Camrose Rose City", "afmaMember" : false, "venueName" : "Duggan Mall", "venueAddress" : "6601 - 48 Avenue", "schedule" : "Thursday; 2:00 PM - 7:00 PM;  Jan 8, 2015 - Dec 17, 2015 (indoor); ", "contact" : "Phone: 780-678-0349", "contact" : "Email: rosecity_ camrose_farmersmarket@yahoo.ca", "website" : "https://www.facebook.com/permalink.php?story_fbid=683376951694570&id=657151684317097", "longitude" : "-112.86664", "latitude" : "53.02892"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1484)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1484, "town" : "Canmore", "marketName" : "Canmore Mountain Market", "afmaMember" : false, "venueName" : "Outside Civic Centre", "venueAddress" : "907 7th Ave", "schedule" : "Thursday; 10:00 AM - 6:00 PM;  Jun 11, 2015 - Oct 15, 2015 (outdoor); ", "contact" : "Phone: 403-678-1295", "website" : "http://www.canmoremarket.com", "longitude" : "-115.36088", "latitude" : "51.08999"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(161)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 161, "town" : "Caroline", "marketName" : "Caroline", "afmaMember" : false, "venueName" : "Caroline Museum", "venueAddress" : "1/2 km East of the Village of Caroline on Highway 54 at the Caroline Municipal RV Park", "schedule" : "Friday; 12:00 PM - 3:00 PM;  May 8, 2015 - Sep 11, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-722-7367", "longitude" : "-114.73928", "latitude" : "52.09364"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(945)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 945, "town" : "Carstairs", "marketName" : "Carstairs", "afmaMember" : false, "venueName" : "Carstairs Curling Rink", "venueAddress" : "317 Veterans Street", "schedule" : "Tuesday; 4:30 PM - 7:30 PM;  Jun 2, 2015 - Sep 29, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-607-3878", "website" : "http://www.carstairsfarmersmarket.weebly.com", "longitude" : "-114.09910", "latitude" : "51.56190"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(181)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 181, "town" : "Castor", "marketName" : "Castor", "afmaMember" : false, "venueName" : "Castor Community Hall", "venueAddress" : "4801 48 Ave", "schedule" : "Thursday; 10:00 AM - 2:00 PM;  Mar 5, 2015 - Dec 3, 2015; Monthly (indoor); ", "contact" : "Phone: 403-882-2755", "website" : "https://www.facebook.com/pages/Castor-Farmers-Market/72543493941?ref=br_tf", "longitude" : "-111.91016", "latitude" : "52.21835"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(201)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 201, "town" : "Claresholm", "marketName" : "Claresholm", "afmaMember" : false, "venueName" : "Claresholm Arena", "venueAddress" : "1A St East and 50 Ave", "schedule" : "Wednesday; 3:00 PM - 6:00 PM;  Jul 8, 2015 - Sep 16, 2015 (indoor); ", "contact" : "Phone: 403-625-3392", "longitude" : "-113.58437", "latitude" : "50.02673"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1364)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1364, "town" : "Rocky Mountain House", "marketName" : "Clearwater", "afmaMember" : false, "venueName" : null, "venueAddress" : "5101 49 Ave", "schedule" : "Thursday; 5:00 PM - 8:00 PM;  May 14, 2015 - Jun 25, 2015 (outdoor); ", "schedule" : "Thursday; 6:00 PM - 9:00 PM;  Jul 2, 2015 - Aug 27, 2015 (outdoor); Held on 50th Street", "schedule" : "Thursday; 5:00 PM - 8:00 PM;  Sep 3, 2015 - Oct 8, 2015 (outdoor); ", "contact" : "Phone: 403-846-6342", "website" : "https://www.facebook.com/groups/689180071113678/?ref=br_tf", "longitude" : "-114.91924", "latitude" : "52.37752"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1205)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1205, "town" : "Coaldale", "marketName" : "Coaldale", "afmaMember" : false, "venueName" : "Coaldale Curling Rink", "venueAddress" : "2007 13 St", "schedule" : "Wednesday; 3:30 PM - 6:30 PM;  Jul 9, 2014 - Sep 24, 2014 (indoor); ", "contact" : "Email: coaldalefarmersmarket@gmail.com", "contact" : "Phone: 403-328-5788", "website" : "http://www.facebook.com/coaldalefarmersmarket", "longitude" : "-112.61177", "latitude" : "49.72758"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(202)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 202, "town" : "Cochrane", "marketName" : "Cochrane", "afmaMember" : false, "venueName" : "Cochrane Ranche Historic Site", "venueAddress" : "East of intersection of Hwys 1A and 22", "schedule" : "Saturday; 9:30 AM - 1:30 PM;  Jun 6, 2015 - Sep 26, 2015 (outdoor); ", "contact" : "Phone: 403-851-0562", "website" : "http://www.cochranefarmersmarket.ca", "longitude" : "-114.48509", "latitude" : "51.19841"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(221)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 221, "town" : "Cold Lake", "marketName" : "Cold Lake", "afmaMember" : false, "venueName" : "Exhibition Park Agriplex", "venueAddress" : "4608 - 38 Ave", "schedule" : "Thursday; 4:00 PM - 6:30 PM;  Jun 11, 2015 - Sep 24, 2015 (indoor); ", "contact" : "Phone: 780-826-2192", "website" : "http://www.coldlakeag.com/", "longitude" : "-110.18944", "latitude" : "54.40500"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1384)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1384, "town" : "Consort", "marketName" : "Consort ", "afmaMember" : false, "venueName" : "Consort Sportex", "venueAddress" : "4602 50 Ave", "schedule" : "Tuesday; 4:00 PM - 7:00 PM;  Jul 7, 2015 - Sep 29, 2015 (indoor); ", "contact" : "Phone: 403-575-9533", "website" : "https://www.facebook.com/groups/247003181992529/?ref=br_tf", "longitude" : "-110.76834", "latitude" : "52.00853"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(222)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 222, "town" : "Crossfield", "marketName" : "Crossfield", "afmaMember" : false, "venueName" : "Pete Knight Memorial Arena", "venueAddress" : "920 Mountain Ave", "schedule" : "Thursday; 5:30 PM - 8:00 PM;  Jun 4, 2015 - Sep 17, 2015 (indoor); ", "contact" : "Phone: 403-804-6114", "contact" : "Phone: 403-390-9563", "website" : "https://www.facebook.com/pages/Crossfield-Farmers-Market/642461145801456?ref=br_tf", "longitude" : "-114.02575", "latitude" : "51.43263"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(235)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 235, "town" : "Darwell", "marketName" : "Darwell", "afmaMember" : false, "venueName" : "Darwell Centennial Hall", "venueAddress" : "Intersection of  Hwy 633 and 765 (Range Rd 50)", "schedule" : "Sunday; 11:00 AM - 2:00 PM;  May 3, 2015 - Sep 27, 2015 (indoor); ", "contact" : "Phone: 587-785-1175", "contact" : "Phone: 780-892-4754", "website" : "https://www.facebook.com/DarwellFarmersMarket", "longitude" : "-114.58960", "latitude" : "53.66354"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1485)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1485, "town" : "DeBolt", "marketName" : "DeBolt", "afmaMember" : false, "venueName" : "DeBolt Centre", "venueAddress" : "207 Alberta Ave", "schedule" : "Wednesday; 3:00 PM - 8:00 PM;  Jun 17, 2015 - Sep 30, 2015 (indoor); ", "contact" : "Phone: 780-957-3958", "longitude" : "-118.02084", "latitude" : "55.21964"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(760)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 760, "town" : "Delburne", "marketName" : "Delburne", "afmaMember" : false, "venueName" : "Delburne Community Hall", "venueAddress" : "2034 21 Ave", "schedule" : "Wednesday; 4:00 PM - 6:30 PM;  Jun 3, 2015 - Sep 30, 2015 (indoor); ", "contact" : "Phone: 403-505-2558", "contact" : "Phone: 403-749-3630", "longitude" : "-113.23258", "latitude" : "52.19900"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(229)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 229, "town" : "Devon", "marketName" : "Devon Lions", "afmaMember" : false, "venueName" : "Devon Community Centre", "venueAddress" : "20 Haven Ave", "schedule" : "Thursday; 2:00 PM - 5:00 PM;  Jun 4, 2015 - Oct 8, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-987-3594", "website" : "http://www.town.devon.ab.ca", "longitude" : "-113.73012", "latitude" : "53.36215"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(395)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 395, "town" : "Didsbury", "marketName" : "Didsbury", "afmaMember" : false, "venueName" : "Didsbury Memorial Complex", "venueAddress" : "1702 21 Ave, west end of the curling rink", "schedule" : "Wednesday; 5:00 PM - 7:00 PM;  Jul 8, 2015 - Sep 23, 2015 (indoor); ", "contact" : "Phone: 403-335-3707", "contact" : "Email: weetree1@telusplanet.net", "website" : "http://www.didsburyagsociety.org", "longitude" : "-114.13433", "latitude" : "51.66036"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(256)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 256, "town" : "Drumheller", "marketName" : "Drumheller", "afmaMember" : false, "venueName" : "Greentree Mall", "venueAddress" : "555 Hwy 10 E", "schedule" : "Saturday; 9:30 AM - 12:30 PM;  Jun 6, 2015 - Oct 3, 2015 (indoor); July and August markets held at Centre St, between 3rd Ave & Railway Ave", "contact" : "Phone: 403-823-5828", "website" : "https://www.facebook.com/pages/Alberta-Approved-Drumheller-Farmers-Market/358563711013565", "longitude" : "-112.70252", "latitude" : "51.45714"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(259)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 259, "town" : "Edmonton", "marketName" : "Edmonton Beverly Towne", "afmaMember" : false, "venueName" : null, "venueAddress" : "South of 118 Ave at 40 St", "schedule" : "Tuesday; 4:00 PM - 8:00 PM;  May 12, 2015 - Sep 29, 2015 (outdoor); ", "contact" : "Phone: 780-413-6244", "contact" : "Email: info@beverlyfarmersmarket.ca", "website" : "http://www.beverlyfarmersmarket.ca ", "longitude" : "-113.40341", "latitude" : "53.56988"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(260)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 260, "town" : "Edmonton", "marketName" : "Edmonton Callingwood", "afmaMember" : false, "venueName" : null, "venueAddress" : "69 Ave & 178 St", "schedule" : "Sunday; 10:00 AM - 3:00 PM;  May 3, 2015 - Oct 11, 2015 (outdoor); ", "schedule" : "Wednesday; 2:00 PM - 6:00 PM;  May 6, 2015 - Oct 7, 2015 (outdoor); ", "contact" : "Phone: 780-487-8649", "website" : "http://www.callingwoodmarketplace.com/farmers-market", "longitude" : "-113.62861", "latitude" : "53.50222"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(261)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 261, "town" : "Edmonton", "marketName" : "Edmonton Capilano", "afmaMember" : false, "venueName" : "Capilano Mall", "venueAddress" : "5004 98 Ave", "schedule" : "Saturday; 9:30 AM - 4:00 PM;  Jan 3, 2015 - Dec 19, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-962-8163", "longitude" : "-113.42250", "latitude" : "53.53861"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(884)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 884, "town" : "Edmonton", "marketName" : "Edmonton Castledowns", "afmaMember" : false, "venueName" : "Castledowns Recreation Centre", "venueAddress" : "11520 153 Ave", "schedule" : "Wednesday; 4:00 PM - 8:00 PM;  Jan 7, 2015 - Dec 16, 2015 (indoor and outdoor); Market will be held indoor at Recreation Centre from October to April, otherwise outdoors", "contact" : "Phone: 780-459-6082", "website" : "http://cdfm.pxn.ca", "longitude" : "-113.52045", "latitude" : "53.61442"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(264)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 264, "town" : "Edmonton", "marketName" : "Edmonton Downtown Farmers' Market", "afmaMember" : false, "venueName" : "Downtown Edmonton", "venueAddress" : "104 St between Jasper Ave & 103 Ave", "schedule" : "Saturday; 9:00 AM - 3:00 PM;  Jan 3, 2015 - May 9, 2015 (indoor); Held inside City Hall - 1 Sir Winston Churchill Square", "schedule" : "Saturday; 9:00 AM - 3:00 PM;  May 16, 2015 - Oct 10, 2015 (outdoor); ", "schedule" : "Saturday; 9:00 AM - 3:00 PM;  Oct 17, 2015 - Dec 19, 2015 (indoor); Held in City Hall - 1 Sir Winston Churchill Square", "contact" : "Phone: 780-429-5713", "website" : "http://www.city-market.ca", "longitude" : "-113.49916", "latitude" : "53.54277"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1584)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1584, "town" : "Edmonton", "marketName" : "Edmonton French Quarter", "afmaMember" : false, "venueName" : "La Cite Francophone", "venueAddress" : "8627 91 St", "schedule" : "Sunday; 12:00 PM - 4:00 PM;  Jan 4, 2015 - Dec 20, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-463-1144", "contact" : "Phone: 780-221-5083", "website" : "http://www.lacitefranco.ca/french-quarter-farmers-market.php", "longitude" : "-113.46698", "latitude" : "53.52250"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1164)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1164, "town" : "Edmonton", "marketName" : "Edmonton Highlands", "afmaMember" : false, "venueName" : "St Mary's Anglican Church", "venueAddress" : "112 Ave & 68 St (parking lot)", "schedule" : "Thursday; 4:00 PM - 8:00 PM;  Jan 8, 2015 - May 14, 2015 (indoor); ", "schedule" : "Thursday; 4:00 PM - 8:00 PM;  May 21, 2015 - Sep 24, 2015 (outdoor); ", "schedule" : "Thursday; 4:00 PM - 8:00 PM;  Oct 1, 2015 - Dec 17, 2015 (indoor); ", "contact" : "Phone: 780-4740535", "contact" : "Email: info@highlands112avenue.com", "website" : "http://www.highlands112avenue.com/farmersmarket.html", "longitude" : "-113.43766", "latitude" : "53.56493"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(266)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 266, "town" : "Edmonton", "marketName" : "Edmonton Millwoods", "afmaMember" : false, "venueName" : "Millwoods Recreation Centre parking lot", "venueAddress" : "7208 28 Ave", "schedule" : "Thursday; 5:00 PM - 8:00 PM;  Jun 4, 2015 - Oct 1, 2015 (outdoor); ", "contact" : "Phone: 780-461-0619", "website" : "http://www.millwoodsfarmersmarket.com", "longitude" : "-113.44601", "latitude" : "53.45846"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(267)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 267, "town" : "Edmonton", "marketName" : "Edmonton Old Strathcona", "afmaMember" : false, "venueName" : "Old Bus Barn", "venueAddress" : "10310 83 Ave", "schedule" : "Saturday; 8:00 AM - 3:00 PM;  Jan 3, 2015 - Dec 19, 2015 (indoor); ", "contact" : "Phone: 780-439-1844", "contact" : "Email: office@osfm.ca", "website" : "http://www.osfm.ca/", "longitude" : "-113.49577", "latitude" : "53.51916"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1404)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1404, "town" : "Edmonton", "marketName" : "Edmonton Seniors Centre", "afmaMember" : false, "venueName" : "General Hospital", "venueAddress" : "3Y - 11111 Jasper Ave", "schedule" : "Wednesday; 10:00 AM - 2:00 PM;  Feb 11, 2015 - Dec 23, 2015 (indoor); ", "contact" : "Phone: 780-962-8163", "longitude" : "-113.51386", "latitude" : "53.54096"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1224)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1224, "town" : "Edmonton", "marketName" : "Edmonton University of Alberta", "afmaMember" : false, "venueName" : "Students' Union Building", "venueAddress" : "8900 114 St", "schedule" : "Thursday; 10:00 AM - 2:00 PM;  Jan 15, 2015 - Apr 9, 2015; Monthly (indoor); ", "contact" : "Phone: 780-492-7134", "contact" : "Email: sustain@su.ualberta.ca", "website" : "http://www.su.ualberta.ca/services/sustainsu/farmersmarket/", "longitude" : "-113.52559", "latitude" : "53.52451"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(269)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 269, "town" : "Edmonton", "marketName" : "Edmonton Westmount", "afmaMember" : false, "venueName" : "St Andrews Centre", "venueAddress" : "12720 111 Ave", "schedule" : "Thursday; 10:00 AM - 4:00 PM;  Jan 8, 2015 - Dec 17, 2015 (indoor); ", "contact" : "Phone: 780-456-0384", "website" : "http://www.westmountmarket.ca", "longitude" : "-113.54203", "latitude" : "53.55896"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(270)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 270, "town" : "Edson", "marketName" : "Edson", "afmaMember" : false, "venueName" : "Friendship Centre", "venueAddress" : "5023 - 3 Ave", "schedule" : "Friday; 10:30 AM - 2:00 PM;  Apr 17, 2015 - Dec 18, 2015 (indoor); ", "contact" : "Phone: 780-723-3480", "website" : "https://www.facebook.com/#!/groups/14054759451/?fref=ts/", "longitude" : "-116.43151", "latitude" : "53.58236"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(271)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 271, "town" : "Enilda", "marketName" : "Enilda", "afmaMember" : false, "venueName" : "WI Hall", "venueAddress" : "2 First Avenue", "schedule" : "Saturday; 10:00 AM - 2:00 PM;  Feb 7, 2015 - Dec 5, 2015; Monthly (indoor); ", "contact" : "Phone: 780-523-2209", "longitude" : "-116.33874", "latitude" : "55.42613"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(283)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 283, "town" : "Evansburg", "marketName" : "Evansburg", "afmaMember" : false, "venueName" : "Main Street, across from Post Office", "venueAddress" : "5013 50 St", "schedule" : "Saturday; 10:00 AM - 2:00 PM;  May 9, 2015 - Sep 26, 2015 (outdoor); ", "contact" : "Phone: 780-727-3526", "longitude" : "-115.02320", "latitude" : "53.60045"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(236)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 236, "town" : "Drayton Valley", "marketName" : "Evergreen", "afmaMember" : false, "venueName" : "Omniplex", "venueAddress" : "5737 - 45 Avenue", "schedule" : "Wednesday; 10:30 AM - 1:30 PM;  Mar 11, 2015 - Dec 16, 2015 (indoor); ", "contact" : "Phone: 780-514-6897", "website" : "http://www.dvevergreenfarmersmarket.ca", "longitude" : "-114.98810", "latitude" : "53.21603"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1344)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1344, "town" : "Fairview", "marketName" : "Fairview", "afmaMember" : false, "venueName" : "Royal Canadian Legion", "venueAddress" : "110 St & 104 Ave", "schedule" : "Saturday; 9:00 AM - 12:00 PM;  Mar 1, 2014 - Dec 20, 2014 (indoor); ", "contact" : "Phone: 780-835-4633", "longitude" : "-118.38455", "latitude" : "56.06857"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(301)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 301, "town" : "Fort Assiniboine", "marketName" : "Fort Assiniboine", "afmaMember" : false, "venueName" : "Arena Complex - Curling Rink", "schedule" : "Friday; 2:00 PM - 6:00 PM;  May 8, 2015 - Sep 11, 2015 (indoor); ", "contact" : "Phone: 780-674-4058", "contact" : "Phone: 780-674-9003", "longitude" : "-114.77426", "latitude" : "54.33585"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1264)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1264, "town" : "Fort McMurray", "marketName" : "Fort McMurray Urban Market", "afmaMember" : false, "venueName" : "Jubilee Plaza", "venueAddress" : "9909 Franklin Ave ", "schedule" : "Wednesday; 12:00 PM - 7:00 PM;  Jun 17, 2015 - Sep 23, 2015; Every 2nd Week (outdoor); ", "contact" : "Phone: 780-215-2669", "longitude" : "-111.38045", "latitude" : "56.72720"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(363)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 363, "town" : "Fort Saskatchewan", "marketName" : "Fort Saskatchewan", "afmaMember" : false, "venueName" : "CN Train Station", "venueAddress" : "10030 99 Ave", "schedule" : "Thursday; 4:30 PM - 7:30 PM;  Jun 11, 2015 - Sep 24, 2015 (outdoor); ", "contact" : "Phone: 780-998-4355", "website" : "http://www.fortsaskchamber.com", "longitude" : "-113.21766", "latitude" : "53.70800"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(364)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 364, "town" : "Gibbons", "marketName" : "Gibbons", "afmaMember" : false, "venueName" : "Curling Rink", "venueAddress" : "5004 51 Ave", "schedule" : "Wednesday; 5:30 PM - 7:30 PM;  Jun 17, 2015 - Sep 16, 2015 (indoor); ", "contact" : "Phone: 780-923-3126", "longitude" : "-113.32898", "latitude" : "53.82547"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(904)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 904, "town" : "Glendon", "marketName" : "Glendon", "afmaMember" : false, "venueName" : "Curling Rink", "venueAddress" : "1st Ave N", "schedule" : "Saturday; 10:00 AM - 12:30 PM;  May 9, 2015 - Jun 20, 2015; Every 2nd Week (indoor); ", "schedule" : "Saturday; 10:00 AM - 12:30 PM;  Jul 11, 2015 - Aug 22, 2015; Every 2nd Week (indoor); ", "schedule" : "Saturday; 10:00 AM - 12:30 PM;  Sep 12, 2015 - Sep 26, 2015; Every 2nd Week (indoor); ", "contact" : "Phone: 780-635-2460", "longitude" : "-111.15162", "latitude" : "54.25072"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(905)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 905, "town" : "Barrhead", "marketName" : "Glenreagh", "afmaMember" : false, "venueName" : "Glenreagh Community Hall", "venueAddress" : "2 miles N and 1 miles W of Barrhead", "schedule" : "Wednesday; 11:00 AM - 2:00 PM;  Apr 1, 2015 - Sep 30, 2015 (indoor); ", "contact" : "Phone: 780-954-2385", "longitude" : "-114.44688", "latitude" : "54.15194"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1225)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1225, "town" : "Grande Cache", "marketName" : "Grande Cache", "afmaMember" : false, "venueName" : null, "venueAddress" : "1300 Pine Plaza Street", "schedule" : "Saturday; 11:00 AM - 3:00 PM;  Mar 14, 2015 - Mar 14, 2015; Monthly (indoor and outdoor); ", "schedule" : "Saturday; 11:00 AM - 3:00 PM;  May 9, 2015 - May 9, 2015 (indoor); ", "schedule" : "Saturday; 11:00 AM - 3:00 PM;  Jun 13, 2015 - Nov 28, 2015; Bi-Monthly (indoor and outdoor); ", "schedule" : "Saturday; 11:00 AM - 3:00 PM;  Aug 1, 2015 - Aug 2, 2015; Annually (indoor and outdoor); Deathfest Weekend - Market Saturday and Sunday", "contact" : "Phone: 780-827-5617", "website" : "http://www.grandecachefarmersmarket.ca/", "longitude" : "-119.11403", "latitude" : "53.88868"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(365)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 365, "town" : "Grande Prairie", "marketName" : "Grande Prairie", "afmaMember" : false, "venueName" : "Big Red Barn", "venueAddress" : "10032 101 Ave (corner of 101 St and 101 Ave)", "schedule" : "Friday; 4:00 PM - 8:00 PM;  Jan 2, 2015 - Dec 18, 2015 (indoor); ", "schedule" : "Saturday; 10:00 AM - 3:00 PM;  Jan 3, 2015 - Dec 20, 2015 (indoor); ", "contact" : "Phone: 780-814-8224", "contact" : "Phone: 780-933-4443", "longitude" : "-118.79941", "latitude" : "55.17154"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(366)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 366, "town" : "Hanna", "marketName" : "Hanna", "afmaMember" : false, "venueName" : "Round Up Centre", "venueAddress" : "400 Pioneer Trail", "schedule" : "Wednesday; 10:00 AM - 2:00 PM;  May 13, 2015 - Sep 30, 2015 (indoor and outdoor); ", "schedule" : "Saturday; 10:00 AM - 2:00 PM;  Jul 25, 2015 - Jul 25, 2015; Annually (indoor and outdoor); ", "contact" : "Phone: 403-854-4563", "website" : "https://www.facebook.com/groups/1406623816241904/?ref=br_tf", "longitude" : "-111.93224", "latitude" : "51.64419"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1446)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1446, "town" : "High Level", "marketName" : "High Level", "afmaMember" : false, "venueName" : "High Level Arena Curling Rink", "venueAddress" : "10101 105th Street", "schedule" : "Friday; 2:00 PM - 7:00 PM;  Jul 4, 2015 - Sep 25, 2015 (indoor); ", "contact" : "Phone: 780-247-1625", "longitude" : "-117.14621", "latitude" : "58.51760"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1084)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1084, "town" : "High Prairie", "marketName" : "High Prairie Marigold ", "afmaMember" : false, "venueName" : null, "venueAddress" : "4932 51 Ave", "schedule" : "Wednesday; 2:00 PM - 7:00 PM;  Feb 25, 2015 - Mar 25, 2015; Every 2nd Week; ", "schedule" : "Wednesday; 2:00 PM - 7:00 PM;  Apr 1, 2015 - Dec 16, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-523-4588", "contact" : "Phone: 780-523-4005", "longitude" : "-116.49473", "latitude" : "55.43106"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(367)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 367, "town" : "Hinton", "marketName" : "Hinton", "afmaMember" : false, "venueName" : "Hinton Community Centre", "venueAddress" : "965 Switzer Dr", "schedule" : "Thursday; 11:00 AM - 2:00 PM;  Mar 26, 2015 - Dec 17, 2015 (indoor); ", "contact" : "Phone: 780-865-4362", "longitude" : "-117.57387", "latitude" : "53.40409"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(368)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 368, "town" : "Innisfail", "marketName" : "Innisfail", "afmaMember" : false, "venueName" : "Innisfail Arena", "venueAddress" : "5604 42 Street", "schedule" : "Thursday; 10:00 AM - 1:00 PM;  May 7, 2015 - Sep 17, 2015 (indoor); ", "contact" : "Phone: 403-896-5451", "longitude" : "-113.96949", "latitude" : "52.02034"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1004)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1004, "town" : "Jasper", "marketName" : "Jasper ", "afmaMember" : false, "venueName" : "McCready Centre", "venueAddress" : "701 Turret St", "schedule" : "Wednesday; 12:00 PM - 3:00 PM;  Jun 24, 2015 - Sep 23, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-883-0522", "website" : "https://www.facebook.com/JLFSfarmersmarket", "longitude" : "-118.08595", "latitude" : "52.87452"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1044)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1044, "town" : "Kinuso", "marketName" : "Kinuso", "afmaMember" : false, "venueName" : "Kinuso Ag Hall", "venueAddress" : "201 Swan Avenue", "schedule" : "Saturday; 10:00 AM - 2:00 PM;  May 16, 2015 - Sep 5, 2015; Every 2nd Week (indoor); ", "contact" : "Phone: 780-775-3928", "longitude" : "-115.43237", "latitude" : "55.32979"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(369)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 369, "town" : "Lac La Biche", "marketName" : "Lac La Biche", "afmaMember" : false, "venueName" : "Agricom", "venueAddress" : "13412 Hwy 881", "schedule" : "Friday; 3:00 PM - 5:30 PM;  Mar 27, 2015 - Dec 11, 2015 (indoor); ", "contact" : "Phone: 780-623-8002", "longitude" : "-111.93834", "latitude" : "54.76256"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(370)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 370, "town" : "Lacombe", "marketName" : "Lacombe", "afmaMember" : false, "venueName" : "Lacombe Arena parking lot", "venueAddress" : "5429 53 St", "schedule" : "Friday; 9:00 AM - 1:00 PM;  May 15, 2015 - Oct 9, 2015 (outdoor); ", "contact" : "Phone: 403-782-4772", "longitude" : "-113.73543", "latitude" : "52.46849"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(374)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 374, "town" : "Lakedell", "marketName" : "Lakedell", "afmaMember" : false, "venueName" : "Lakedell Ag Society Parking Lot", "venueAddress" : "1 mile west & 1/2 mile South of Village of Pigeon Lake ", "schedule" : "Friday; 4:00 PM - 7:00 PM;  May 15, 2015 - Sep 11, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-621-0763", "website" : "http://www.lakedell.org/special-events/farmers-market/", "longitude" : "-114.05006", "latitude" : "52.95990"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(372)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 372, "town" : "Leduc", "marketName" : "Leduc", "afmaMember" : false, "venueName" : null, "venueAddress" : "50th Ave, between 49 & 47 St", "schedule" : "Thursday; 10:00 AM - 1:30 PM;  May 21, 2015 - Oct 1, 2015 (outdoor); ", "schedule" : "Saturday; 10:00 AM - 1:30 PM;  Jul 4, 2015 - Sep 26, 2015 (outdoor); ", "contact" : "Phone: 780-887-1974", "longitude" : "-113.55240", "latitude" : "53.26476"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1184)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 1184, "town" : "Legal", "marketName" : "Legal", "afmaMember" : false, "venueName" : "Citadel Centre (Gazebo)", "venueAddress" : "51 Ave & 47 St", "schedule" : "Thursday; 3:00 PM - 7:00 PM;  Jun 5, 2014 - Aug 28, 2014 (indoor and outdoor); ", "contact" : "Phone: 780-934-2379", "contact" : "Email: legalfarmersmarket@gmail.com", "website" : "http://www.legalchamberofcommerce.ca", "longitude" : "-113.59228", "latitude" : "53.95027"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(376)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 376, "town" : "Lethbridge", "marketName" : "Lethbridge ", "afmaMember" : false, "venueName" : "Lethbridge Exhibition Park North/West Pavilions", "venueAddress" : "3401 Parkside Dr S", "schedule" : "Saturday; 8:00 AM - 2:00 PM;  May 9, 2015 - Oct 24, 2015 (indoor); ", "schedule" : "Wednesday; 10:00 AM - 3:00 PM;  Jul 8, 2015 - Sep 9, 2015 (outdoor); Festival Square, corner of 3 Ave  & 6 St S", "schedule" : "Thursday; 2:00 PM - 7:00 PM;  Jul 9, 2015 - Sep 3, 2015 (outdoor); Held at the community Church, corner of McMaster Blvd & Macleod Dr W", "contact" : "Phone: 403-317-3206", "website" : "http://www.exhibitionpark.ca", "longitude" : "-112.78824", "latitude" : "49.68735"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(377)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 377, "town" : "Long Lake Provincial Park (near Boyle)", "marketName" : "Long Lake Provincial Park", "afmaMember" : false, "venueName" : "Day Use Area open shelter", "schedule" : "Saturday; 11:00 AM - 2:00 PM;  May 16, 2015 - Jun 27, 2015; Every 2nd Week (outdoor); ", "schedule" : "Saturday; 11:00 AM - 2:00 PM;  Jul 4, 2015 - Sep 5, 2015 (outdoor); ", "contact" : "Phone: 780-576-2401", "contact" : "Phone: 780-689-2725", "longitude" : "-112.80346", "latitude" : "54.42153"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1405)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1405, "town" : "Magrath", "marketName" : "Magrath", "afmaMember" : false, "venueName" : "Garth Veale Memorial Arena", "venueAddress" : "5 North Centre Street", "schedule" : "Tuesday; 4:30 PM - 7:30 PM;  Jun 16, 2015 - Sep 29, 2015 (indoor); ", "contact" : "Phone: 403-758-3946", "longitude" : "-112.86538", "latitude" : "49.42056"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(282)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 282, "town" : "Manning", "marketName" : "Manning", "afmaMember" : false, "venueName" : "Royal Canadian Legion", "venueAddress" : "121 2 Ave SW", "schedule" : "Friday; 10:00 AM - 1:00 PM;  May 8, 2015 - Oct 9, 2015 (indoor); ", "contact" : "Phone: 780-836-0650", "contact" : "Email: manningfarmersmarket@yahoo.ca", "longitude" : "-117.63395", "latitude" : "56.92313"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(378)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 378, "town" : "Medicine Hat", "marketName" : "Medicine Hat", "afmaMember" : false, "venueName" : "Cypress Centre", "venueAddress" : "2055 21 Ave SE", "schedule" : "Saturday; 9:00 AM - 1:00 PM;  May 16, 2015 - Oct 3, 2015 (indoor); ", "contact" : "Phone: 403-527-1234", "website" : "http://www.mhstampede.com", "longitude" : "-110.65398", "latitude" : "50.02040"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(379)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 379, "town" : "Millarville", "marketName" : "Millarville", "afmaMember" : false, "venueName" : "Race Track", "venueAddress" : "Hwy 549 E and 192 St W, 306097 192 St W", "schedule" : "Saturday; 9:00 AM - 2:00 PM;  Jun 13, 2015 - Oct 10, 2015 (outdoor); ", "contact" : "Phone: 403-931-2404", "website" : "http://www.millarvilleracetrack.com", "longitude" : "-114.28481", "latitude" : "50.77693"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(800)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 800, "town" : "Millet", "marketName" : "Millet", "afmaMember" : false, "venueName" : "Millet Agriplex", "venueAddress" : "5290 45 Ave", "schedule" : "Wednesday; 3:30 PM - 6:00 PM;  Jul 8, 2015 - Sep 30, 2015 (indoor); ", "contact" : "Phone: 780-387-4442", "longitude" : "-113.48277", "latitude" : "53.09066"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(380)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 380, "town" : "Morinville", "marketName" : "Morinville", "afmaMember" : false, "venueName" : "Ray McDonald Sport Arena Parking Lot (outdoor), Arena lobby (indoor)", "venueAddress" : "9908 104 St", "schedule" : "Friday; 4:00 PM - 7:00 PM;  Jan 2, 2015 - May 29, 2015 (indoor); held in arena lobby", "schedule" : "Friday; 12:00 PM - 5:00 PM;  Jun 5, 2015 - Sep 25, 2015 (outdoor); ", "schedule" : "Friday; 4:00 PM - 7:00 PM;  Oct 2, 2015 - Dec 18, 2015 (indoor); held in arena lobby", "contact" : "Phone: 780-934-2379", "contact" : "Email: morinvillefarmersmarket@gmail.com", "website" : "http://morinvillefarmersmarket.com/", "longitude" : "-113.64725", "latitude" : "53.80195"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1564)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1564, "town" : "Mulhurst Bay", "marketName" : "Mulhurst Bay ", "afmaMember" : false, "venueName" : "Mulhurst Bay Legion Hall", "venueAddress" : "5702 39 St", "schedule" : "Thursday; 4:00 PM - 7:00 PM;  Jun 18, 2015 - Sep 17, 2015 (outdoor); ", "contact" : "Phone: 780-246-5164", "longitude" : "-113.98645", "latitude" : "53.05066"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(381)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 381, "town" : "Nanton", "marketName" : "Nanton United Church", "afmaMember" : false, "venueName" : "United Church Parking Lot", "venueAddress" : "2121 21 Ave", "schedule" : "Saturday; 9:00 AM - 1:00 PM;  Jun 20, 2015 - Oct 3, 2015 (outdoor); ", "contact" : "Phone: 403-646-5776", "longitude" : "-113.77251", "latitude" : "50.34702"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(906)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 906, "town" : "New Norway", "marketName" : "New Norway", "afmaMember" : false, "venueName" : "Community Hall", "venueAddress" : "210 Main St", "schedule" : "Tuesday; 3:00 PM - 7:00 PM;  Jan 6, 2015 - Dec 15, 2015; Every 2nd Week (indoor); 1st and 3rd Tuesday every month", "contact" : "Phone: 780-855-2129", "website" : "http://www.facebook.com/groups/287510384627085/?ref=br_tf", "longitude" : "-112.95124", "latitude" : "52.86869"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(382)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 382, "town" : "Okotoks", "marketName" : "Okotoks", "afmaMember" : false, "venueName" : "North side of Okotoks", "venueAddress" : "2 miles N of Okotoks on Hwy 2A (westside facing Highway)", "schedule" : "Friday; 3:30 PM - 6:30 PM;  Jun 19, 2015 - Sep 25, 2015 (outdoor); ", "contact" : "Phone: 403-630-4182", "longitude" : "-113.97559", "latitude" : "50.70265"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(383)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 383, "town" : "Olds", "marketName" : "Olds", "afmaMember" : false, "venueName" : "Cow Palace", "venueAddress" : "5116 54 St", "schedule" : "Thursday; 4:00 PM - 6:30 PM;  May 28, 2015 - Oct 8, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-556-3770", "website" : "http://www.oldsregionalexhibition.com/", "longitude" : "-114.11066", "latitude" : "51.78814"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1406)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1406, "town" : "Onoway", "marketName" : "Onoway", "afmaMember" : false, "venueName" : "Onoway Arena", "venueAddress" : "5004 53 Ave", "schedule" : "Friday; 4:00 PM - 9:00 PM;  May 1, 2015 - Sep 4, 2015 (indoor); ", "contact" : "Phone: 780-965-6977", "longitude" : "-114.19301", "latitude" : "53.70695"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(385)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 385, "town" : "Oyen", "marketName" : "Oyen", "afmaMember" : false, "venueName" : "Oyen Memorial Arena", "venueAddress" : "105 5 Ave East", "schedule" : "Friday; 11:00 AM - 2:00 PM;  Jun 12, 2015 - Sep 18, 2015 (indoor); ", "contact" : "Phone: 403-664-3819", "longitude" : "-110.48363", "latitude" : "51.35015"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(422)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 422, "town" : "Peace River", "marketName" : "Peace River ", "afmaMember" : false, "venueName" : "Senior Centre", "venueAddress" : "10301 101 St", "schedule" : "Saturday; 10:00 AM - 1:00 PM;  Feb 28, 2015 - Dec 19, 2015; Every 2nd Week (indoor); ", "contact" : "Phone: 780-618-3640", "website" : "http://peaceriverfarmersmarket.com/", "longitude" : "-117.29038", "latitude" : "56.23318"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(720)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 720, "town" : "Pincher Creek", "marketName" : "Pincher Creek ", "afmaMember" : false, "venueName" : "Arena Lobby", "venueAddress" : "867 Main Street", "schedule" : "Friday; 11:00 AM - 2:00 PM;  Jun 19, 2015 - Oct 2, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-627-4158", "longitude" : "-113.94220", "latitude" : "49.48563"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(386)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 386, "town" : "Ponoka", "marketName" : "Ponoka", "afmaMember" : false, "venueName" : "Curling Rink ", "venueAddress" : "4310 54 St", "schedule" : "Wednesday; 9:00 AM - 1:00 PM;  May 6, 2015 - Sep 30, 2015 (indoor); ", "contact" : "Phone: 403-783-6776", "longitude" : "-113.58183", "latitude" : "52.67714"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(387)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 387, "town" : "Provost", "marketName" : "Provost", "afmaMember" : false, "venueName" : "Provost Agri-plex", "venueAddress" : "5211 43 St", "schedule" : "Friday; 10:00 AM - 2:00 PM;  Jun 5, 2015 - Oct 2, 2015 (indoor); ", "contact" : "Phone: 780-753-0950", "longitude" : "-110.25549", "latitude" : "52.35457"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1144)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1144, "town" : "Red Deer", "marketName" : "Red Deer Downtown", "afmaMember" : false, "venueName" : "Little Gaetz Avenue", "venueAddress" : "4900 Block - 50th Avenue", "schedule" : "Wednesday; 4:00 PM - 7:00 PM;  Jun 3, 2015 - Oct 7, 2015 (outdoor); ", "contact" : "Phone: 403-340-8696", "website" : "http://www.downtownmarket.ca", "longitude" : "-113.81160", "latitude" : "52.26811"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(388)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 388, "town" : "Redwater", "marketName" : "Redwater", "afmaMember" : false, "venueName" : "Pembina Place", "venueAddress" : "4944 53 St", "schedule" : "Tuesday; 4:00 PM - 7:00 PM;  Jun 2, 2015 - Sep 1, 2015 (indoor); ", "contact" : "Phone: 780-940-6076", "website" : "http://www.redwaterag.com", "longitude" : "-113.11595", "latitude" : "53.95253"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(389)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 389, "town" : "Rimbey", "marketName" : "Rimbey \"Market at the Park\"", "afmaMember" : false, "venueName" : "Pask-a-Poo-Park", "venueAddress" : "5620 51 St, Hwy 20 North", "schedule" : "Saturday; 9:30 AM - 11:30 AM;  May 9, 2015 - Oct 10, 2015 (outdoor); ", "contact" : "Phone: 403-704-4001", "website" : "https://www.facebook.com/RimbeyFarmersMarket", "longitude" : "-114.24168", "latitude" : "52.63925"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(390)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 390, "town" : "Rocky Mountain House", "marketName" : "Rocky Mountain House Town & Country", "afmaMember" : false, "venueName" : "Rocky Mountain House Museum - Basement", "venueAddress" : "5406 48 St", "schedule" : "Saturday; 10:00 AM - 1:00 PM;  Jan 17, 2015 - Dec 19, 2015 (indoor); ", "contact" : "Phone: 403-845-3629", "contact" : "Email: iris2@telus.net", "longitude" : "-114.91588", "latitude" : "52.37925"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1524)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1524, "town" : "Rolling Hills", "marketName" : "Rolling Hills", "afmaMember" : false, "venueName" : "Rolling Hills Arena", "schedule" : "Wednesday; 4:00 PM - 7:00 PM;  May 20, 2015 - Sep 30, 2015 (indoor); ", "contact" : "Phone: 403-977-7405", "longitude" : "-111.77183", "latitude" : "50.22596"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(391)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 391, "town" : "Rycroft", "marketName" : "Rycroft", "afmaMember" : false, "venueName" : "Rycroft Agricultural Building", "venueAddress" : "5010 49 Ave", "schedule" : "Thursday; 12:00 PM - 4:00 PM;  May 7, 2015 - Jun 18, 2015; Every 2nd Week (indoor); ", "schedule" : "Thursday; 12:00 PM - 4:00 PM;  Jul 2, 2015 - Sep 24, 2015 (indoor); ", "contact" : "Phone: 780-765-2889", "website" : "http://www.rycroftfarmersmarket.org", "longitude" : "-118.70838", "latitude" : "55.75603"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(262)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 262, "town" : "Seba Beach", "marketName" : "Seba Beach", "afmaMember" : false, "venueName" : "Seba Beach Heritage Pavilion ", "venueAddress" : "505 1st Ave S", "schedule" : "Saturday; 10:30 AM - 12:30 PM;  May 9, 2015 - Sep 19, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-797-5393", "website" : "http://sebabeachfarmersmarket.weebly.com/", "longitude" : "-114.73865", "latitude" : "53.54118"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(700)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 700, "town" : "Sherwood Park", "marketName" : "Sherwood Park", "afmaMember" : false, "venueName" : "Strathcona County Community Centre", "venueAddress" : "401 Festival Lane", "schedule" : "Wednesday; 5:00 PM - 8:00 PM;  Jan 7, 2015 - Dec 23, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-464-3354", "website" : "http://www.sherwoodparkfarmersmarket.ca", "longitude" : "-113.30263", "latitude" : "53.52764"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(520)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 520, "town" : "Sherwood Park", "marketName" : "Sherwood Park Salisbury ", "afmaMember" : false, "venueName" : "Salisbury Greenhouse", "venueAddress" : "Township Rd 52337, Range Rd 232 (1 mile south of  Wye Rd", "schedule" : "Thursday; 4:00 PM - 7:30 PM;  Jan 8, 2015 - Apr 17, 2015 (indoor); ", "schedule" : "Thursday; 4:00 PM - 7:30 PM;  Apr 23, 2015 - Oct 15, 2015 (outdoor); ", "schedule" : "Thursday; 4:00 PM - 7:30 PM;  Oct 22, 2015 - Dec 17, 2015 (indoor); ", "contact" : "Phone: 780-904-7914", "website" : "http://www.salisburyfarmersmarket.ca", "longitude" : "-113.29597", "latitude" : "53.50941"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1447)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1447, "town" : "Slave Lake", "marketName" : "Slave Lake", "afmaMember" : false, "venueName" : "Visitor Information Centre", "venueAddress" : "12 Poplar Lane", "schedule" : "Friday; 11:00 AM - 3:00 PM;  Jun 5, 2015 - Aug 28, 2015 (outdoor); ", "contact" : "Phone: 780-849-4611", "longitude" : "-114.76008", "latitude" : "55.26466"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(252)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 252, "town" : "Smoky Lake", "marketName" : "Smoky Lake", "afmaMember" : false, "venueName" : "Agricultural Complex", "venueAddress" : "4612 54 Ave", "schedule" : "Saturday; 10:00 AM - 12:00 PM;  Mar 28, 2015 - Dec 19, 2015 (indoor); ", "contact" : "Phone: 780-656-2463", "website" : "https://www.facebook.com/#!/pages/Smoky-Lake-Farmers-Market/252564484880795", "longitude" : "-112.46888", "latitude" : "54.11894"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(924)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 924, "town" : "Edmonton", "marketName" : "Southwest Edmonton (SWEFM)", "afmaMember" : false, "venueName" : "Terwillegar Community Recreation Centre parking lot", "venueAddress" : "2051 Leger Rd NW", "schedule" : "Wednesday; 4:00 PM - 7:30 PM;  May 13, 2015 - Oct 7, 2015 (outdoor); ", "contact" : "Phone: 780-868-9210", "website" : "http://www.swefm.ca", "longitude" : "-113.58243", "latitude" : "53.45796"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(251)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 251, "town" : "Spruce Grove", "marketName" : "Spruce Grove", "afmaMember" : false, "venueName" : "Elevator Site", "venueAddress" : "120 Railway Ave", "schedule" : "Saturday; 9:30 AM - 1:30 PM;  Apr 11, 2015 - Dec 19, 2015 (indoor); ", "contact" : "Phone: 780-240-5821", "contact" : "Phone: 780-962-2253", "website" : "http://sprucegrovefarmersmarket.weebly.com/", "longitude" : "-113.90621", "latitude" : "53.53992"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1565)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1565, "town" : "Spruce View", "marketName" : "Spruce View", "afmaMember" : false, "venueName" : "Spruce View Hall", "venueAddress" : "Highway 54", "schedule" : "Monday; 4:00 PM - 7:00 PM;  May 18, 2015 - Sep 7, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-391-2573", "longitude" : "-114.35899", "latitude" : "52.08639"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(392)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 392, "town" : "St Albert", "marketName" : "St Albert ", "afmaMember" : false, "venueName" : null, "venueAddress" : "St Anne St and St Thomas Streets", "schedule" : "Saturday; 10:00 AM - 3:00 PM;  Jun 13, 2015 - Oct 10, 2015 (outdoor); ", "contact" : "Phone: 780-458-2833", "website" : "http://www.stalbertfarmersmarket.com", "longitude" : "-113.62724", "latitude" : "53.63419"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(265)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 265, "town" : "St. Paul", "marketName" : "St. Paul", "afmaMember" : false, "venueName" : "Recreation Centre", "venueAddress" : "5310 48 Ave", "schedule" : "Friday; 10:00 AM - 2:00 PM;  Jan 9, 2015 - May 1, 2015 (indoor); ", "schedule" : "Friday; 8:30 AM - 1:00 PM;  May 8, 2015 - Oct 9, 2015 (indoor); ", "schedule" : "Friday; 10:00 AM - 2:00 PM;  Oct 16, 2015 - Nov 27, 2015 (indoor); ", "contact" : "Phone: 780-645-2787", "contact" : "Phone: 780-645-2509", "website" : "https://www.facebook.com/pages/St-Paul-Farmers-Market/330453577025876?ref=br_tf", "longitude" : "-111.30662", "latitude" : "53.98953"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(250)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 250, "town" : "Stettler", "marketName" : "Stettler", "afmaMember" : false, "venueName" : "Agriplex", "venueAddress" : "4516 52 St", "schedule" : "Tuesday; 9:00 AM - 1:00 PM;  Jun 2, 2015 - Sep 29, 2015 (indoor); ", "contact" : "Phone: 403-742-6288", "longitude" : "-112.70953", "latitude" : "52.31900"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(249)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 249, "town" : "Stony Plain  ", "marketName" : "Stony Plain  ", "afmaMember" : false, "venueName" : "Stony Plain Community Centre", "venueAddress" : "5008 51 Ave", "schedule" : "Saturday; 9:00 AM - 1:00 PM;  Apr 4, 2015 - Dec 19, 2015 (indoor and outdoor); ", "contact" : "Phone: 780-962-3993", "website" : "http://www.stonyplainfarmersmarket.ca", "longitude" : "-114.01099", "latitude" : "53.52868"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(248)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 248, "town" : "Strathmore", "marketName" : "Strathmore", "afmaMember" : false, "venueName" : "Strathmore Ag Society Grounds", "venueAddress" : "Wheatland Trail, one block North of Brent Blvd", "schedule" : "Friday; 3:00 PM - 7:00 PM;  Jun 5, 2015 - Sep 18, 2015 (indoor and outdoor); ", "contact" : "Phone: 403-901-0477", "website" : "http://www.strathmorefarmersmarket.ca", "longitude" : "-113.40024", "latitude" : "51.06003"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(247)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 247, "town" : "Sundre", "marketName" : "Sundre", "afmaMember" : false, "venueName" : "Curling Rink", "venueAddress" : "101 - 2nd Ave NW", "schedule" : "Friday; 5:00 PM - 7:30 PM;  May 15, 2015 - Sep 18, 2015 (indoor); ", "contact" : "Phone: 403-638-7595", "contact" : "Phone: 403-638-4466", "longitude" : "-114.64056", "latitude" : "51.80039"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(246)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 246, "town" : "Sylvan Lake", "marketName" : "Sylvan Lake", "afmaMember" : false, "venueName" : "Railway Promenade ", "venueAddress" : "Corner of 46 St and 49 Ave", "schedule" : "Friday; 4:00 PM - 7:30 PM;  May 15, 2015 - Sep 25, 2015 (outdoor); ", "contact" : "Phone: 403-887-3461", "website" : "http://www.sylvanlakefarmersmarket.ca", "longitude" : "-114.09732", "latitude" : "52.30771"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(423)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 423, "town" : "Taber", "marketName" : "Taber ", "afmaMember" : false, "venueName" : "Taber Agri-plex", "venueAddress" : "6602 53 St", "schedule" : "Thursday; 5:00 PM - 7:00 PM;  Jul 2, 2015 - Sep 24, 2015 (indoor); ", "contact" : "Phone: 403-223-9539", "website" : "http://taberagplex.com", "longitude" : "-112.14352", "latitude" : "49.80266"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(245)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 245, "town" : "Three Hills", "marketName" : "Three Hills", "afmaMember" : false, "venueName" : "Three Hills Curling Club", "venueAddress" : "217 3rd Ave N", "schedule" : "Tuesday; 10:00 AM - 1:00 PM;  May 19, 2015 - Sep 22, 2015 (indoor); ", "contact" : "Phone: 403-443-3694", "longitude" : "-113.27015", "latitude" : "51.70138"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(1304)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 1304, "town" : "Two Hills", "marketName" : "Two Hills Region", "afmaMember" : false, "venueName" : "Centennial Hall", "venueAddress" : "Main Street Downtown", "schedule" : "Friday; 2:30 PM - 6:00 PM;  Mar 6, 2015 - Dec 18, 2015 (indoor); ", "contact" : "Phone: 587-280-0958", "longitude" : "-111.74500", "latitude" : "53.71166"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(242)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 242, "town" : "Valleyview", "marketName" : "Valleyview", "afmaMember" : false, "venueName" : "Valleyview Memorial Hall", "venueAddress" : "4804 50 St", "schedule" : "Thursday; 11:00 AM - 6:00 PM;  Feb 12, 2015 - Apr 2, 2015; Monthly (indoor); ", "schedule" : "Thursday; 11:00 AM - 6:00 PM;  May 7, 2015 - Jun 18, 2015; Every 2nd Week (indoor); ", "schedule" : "Thursday; 11:00 AM - 6:00 PM;  Jul 2, 2015 - Oct 15, 2015 (indoor); ", "contact" : "Phone: 780-524-4045", "website" : "http://www.valleyviewfarmersmarket.com", "longitude" : "-117.26775", "latitude" : "55.07139"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(240)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 240, "town" : "Vegreville", "marketName" : "Vegreville", "afmaMember" : false, "venueName" : "Elks Lodge", "venueAddress" : "5002 - 55 Ave", "schedule" : "Friday; 8:30 AM - 11:30 AM;  Mar 27, 2015 - Dec 18, 2015 (indoor); ", "contact" : "Phone: 780-632-2743", "longitude" : "-112.05029", "latitude" : "53.49809"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(238)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 238, "town" : "Vermilion", "marketName" : "Vermilion", "afmaMember" : false, "venueName" : "Elks Hall", "venueAddress" : "4926 - 49 Ave", "schedule" : "Tuesday; 10:00 AM - 1:00 PM;  Mar 17, 2015 - Dec 22, 2015 (indoor); ", "contact" : "Phone: 780-853-4669", "longitude" : "-110.85502", "latitude" : "53.35278"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(237)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 237, "town" : "Viking", "marketName" : "Viking", "afmaMember" : false, "venueName" : "Viking Community Hall", "schedule" : "Thursday; 2:00 PM - 4:00 PM;  Mar 26, 2015 - Oct 29, 2015 (indoor); ", "contact" : "Phone: 780-592-2431", "longitude" : "-111.76954", "latitude" : "53.09786"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(864)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : false, "marketId" : 864, "town" : "Wainwright", "marketName" : "Wainwright Prairie Rose", "afmaMember" : false, "venueName" : "Prairie Rose Senior Centre", "venueAddress" : "731 2nd Ave", "schedule" : "Saturday; 10:00 AM - 1:00 PM;  Mar 7, 2015 - Dec 5, 2015; Monthly (indoor); ", "contact" : "Phone: 780-842-3424 ", "longitude" : "-110.86662", "latitude" : "52.83581"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(228)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 228, "town" : "Westlock", "marketName" : "Westlock", "afmaMember" : false, "venueName" : "Bargain Shop Mall", "venueAddress" : "10211A - 100 St", "schedule" : "Friday; 11:00 AM - 3:00 PM;  Feb 13, 2015 - Dec 18, 2015 (indoor); ", "contact" : "Phone: 780-954-2437", "longitude" : "-113.85463", "latitude" : "54.15212"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(227)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 227, "town" : "Wetaskiwin", "marketName" : "Wetaskiwin", "afmaMember" : false, "venueName" : "Wetaskiwin Mall", "venueAddress" : "3725 56 St", "schedule" : "Wednesday; 10:00 AM - 2:00 PM;  Jan 1, 2015 - Dec 23, 2015 (indoor); ", "contact" : "Phone: 403-783-4841", "contact" : "Phone: 780-360-1110", "website" : "http://www.wetaskiwinfarmersmarkets.ca", "longitude" : "-113.37644", "latitude" : "52.97048"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(226)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 226, "town" : "Whitecourt", "marketName" : "Whitecourt", "afmaMember" : false, "venueName" : "Legion Hall ", "venueAddress" : "51 Ave & 50 St", "schedule" : "Tuesday; 11:00 AM - 2:00 PM;  May 5, 2015 - Oct 6, 2015 (indoor); ", "contact" : "Phone: 780-674-2106", "longitude" : "-115.68460", "latitude" : "54.14138"
+}, {
+"__metadata" : {
+"uri" : "http://www.agric.gov.ab.ca/app21/opendata/farmersmarkets(224)", "type" : "AlbertaAgriculture.FarmersMarket"
+}, "upcoming" : true, "marketId" : 224, "town" : "Wildwood", "marketName" : "Wildwood", "afmaMember" : false, "venueName" : "Community Hall", "venueAddress" : "4909 51 Ave", "schedule" : "Friday; 10:00 AM - 2:00 PM;  May 8, 2015 - Oct 9, 2015 (indoor); ", "contact" : "Phone: 780-325-2424", "longitude" : "-115.23607", "latitude" : "53.60406"
+}
+]
+}
+}
