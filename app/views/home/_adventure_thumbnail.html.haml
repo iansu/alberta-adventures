@@ -1,0 +1,7 @@
+- adventures.each do |adventure|
+  .adventure-thumbnail-box.col-xs-12.col-sm-12.col-md-6.col-lg-4
+    %a.adventure-thumbnail{:href => "/adventures/#{adventure.id}"}
+      %h3= adventure.name
+      %h5= adventure.user.username
+      %img{:src => "http://lorempixel.com/800/140/city/"}
+      .like-button.glyphicon.glyphicon-heart{:aria_hidden => "true"}

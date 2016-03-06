@@ -17,7 +17,7 @@
 @import "bootstrap";
 
 body {
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 
 .navbar-default {
@@ -25,17 +25,27 @@ body {
   border-color: transparent;
 }
 
-.navbar-default .navbar-brand {
-  color: #FFF;
-  font-size: 30px;
-  line-height: 42px;
+.navbar-default {
+  .navbar-brand {
+    color: #FFF;
+    font-size: 30px;
+    line-height: 42px;
+  }
+  .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.9);
+  }
 }
 
-.navbar-default .navbar-nav li a {
-  color: #FFF;
-  font-family: 'Cabin', sans-serif;
-  font-size: 20px;
-  line-height: 40px;
+.navbar-default .navbar-nav li {
+  a {
+    color: #FFF;
+    font-family: 'Cabin', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+  }
+  a:hover {
+    color: rgba(255, 255, 255, 0.9);
+  }
 }
 
 #logo-box {
@@ -66,6 +76,7 @@ body {
   background-position: 0 -100px;
   background-size: cover;
   height: 450px;
+  margin-top: -100px;
 }
 
 .adventure-list {
@@ -80,8 +91,18 @@ body {
     position: relative;
     overflow: hidden;
     height: 140px;
+    margin-bottom: 1.6em;
 
     h3 {
+      position: absolute;
+      bottom: 30px;
+      left: 20px;
+      color: #FFF;
+      text-shadow: -1px -1px 0 #444, 1px -1px 0 #444, -1px 1px 0 #444, 1px 1px 0 #444;
+      letter-spacing: 0.04em;
+    }
+
+    h5 {
       position: absolute;
       bottom: 10px;
       left: 20px;
@@ -94,8 +115,22 @@ body {
       position: absolute;
       top: 10px;
       right: 10px;
+      color: rgba(255, 255, 255, 80);
+    }
+
+    .like-button:hover {
+      color: rgba(255, 0, 0, 100);
     }
   }
+}
+
+a.like-button {
+  color: #AAA;
+}
+
+a.like-button:hover {
+  color: rgba(255, 0, 0, 100);
+  text-decoration: none;
 }
 
 #footer {

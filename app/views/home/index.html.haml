@@ -1,24 +1,3 @@
-.container-full
-  #header-image
-  .row
-    .col-xs-12.col-sm-12.col-md-12.col-lg-12
-
 .container-fluid.adventure-list
   .row
-    .adventure-thumbnail-box.col-xs-12.col-sm-12.col-md-6.col-lg-4
-      %a.adventure-thumbnail{:href => "#"}
-        %h3 Calgary Farmers Markets
-        %img{:src => "http://lorempixel.com/800/140/city/"}
-        .like-button.glyphicon.glyphicon-heart.text-danger{:aria_hidden => "true"}
-
-    .adventure-thumbnail-box.col-xs-12.col-sm-12.col-md-6.col-lg-4
-      %a.adventure-thumbnail{:href => "#"}
-        %h3 Calgary Historic Sites
-        %img{:src => "http://lorempixel.com/800/140/city/"}
-        .like-button.glyphicon.glyphicon-heart.text-danger{:aria_hidden => "true"}
-
-    .adventure-thumbnail-box.col-xs-12.col-sm-12.col-md-6.col-lg-4
-      %a.adventure-thumbnail{:href => "#"}
-        %h3 Best Brunch Places
-        %img{:src => "http://lorempixel.com/800/140/city/"}
-        .like-button.glyphicon.glyphicon-heart.text-danger{:aria_hidden => "true"}
+    = render :partial => 'adventure_thumbnail', locals: {adventures: @adventures}

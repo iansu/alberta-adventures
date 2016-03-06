@@ -1,0 +1,22 @@
+.container-fluid.adventure-list
+  .row
+    .col-xs-12.col-sm-12.col-md-12.col-lg-12
+      %h1.page-header
+        =@adventure.name
+        %small
+          %a.like-button.glyphicon.glyphicon-heart{:href => "#", :aria_hidden => "true"}
+
+      .table-responsive
+        %table.table.table-bordered.table-striped.table-hover
+          %tr
+            %th Name
+            %th Address
+            %th Region
+            %th Map
+          - @adventure.locations.each do |location|
+            %tr.adventure-location-box
+              %td= location.name
+              %td= location.address
+              %td= location.region.name
+              %td
+                %a{:href => "http://maps.google.com/?q=#{location.long},#{location.lat}"} Map
