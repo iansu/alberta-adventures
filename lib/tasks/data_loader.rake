@@ -39,8 +39,7 @@ namespace :data_loader do
     user = User.find_by(username: "DancingBear")
 
     data_files.each do |key, data|
-
-      collection = Collection.find_or_create_by(name: key, user_id: user)
+      collection = Collection.find_or_create_by(name: key, user_id: user.id)
 
       keymap = data[:keymap]
       file_name = [Rails.root, data[:file]].join('/')
