@@ -12,7 +12,8 @@ data_files = {
       address: lambda { |hash| hash['properties']['Address']},
       type: lambda { |x| "Farmer's Market" },
       source_url: -> { 'http://www.calgaryregionopendata.ca/browse/file/3229' },
-      source_name: -> {'CRP Farmers Markets'}
+      source_name: -> {'CRP Farmers Markets'},
+      collection_name: "Farmer's Markets"
     }
   },
   crp_institution: {
@@ -27,8 +28,8 @@ data_files = {
           |hash| [hash['properties']['TYPE'], hash['properties']['SUB_TYPE']].compact.join(" - ")
         },
         source_url: -> { 'http://www.calgaryregionopendata.ca/browse/file/6931' },
-        source_name: -> {'CRP Institution'}
-
+        source_name: -> {'CRP Institution'},
+        collection_name: "Regional Institutions"
       }
   }
 }
@@ -39,9 +40,10 @@ namespace :data_loader do
     user = User.find_by(username: "DancingBear")
 
     data_files.each do |key, data|
-      collection = Collection.find_or_create_by(name: key, user_id: user.id)
-
       keymap = data[:keymap]
+      collection_name = keymap[:collection_name]
+      collection = Collection.find_or_create_by(name: collection_name, user_id: user.id)
+
       file_name = [Rails.root, data[:file]].join('/')
 
       file = File.read(file_name)
