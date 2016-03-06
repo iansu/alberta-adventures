@@ -36,7 +36,12 @@ data_files = {
 namespace :data_loader do
   desc "Load geo json files for alberta adventure"
   task geo_json: :environment do
+    user = User.find_by(username: "DancingBear")
+
     data_files.each do |key, data|
+
+      collection = Collection.find_or_create_by(name: key, user_id: user)
+
       keymap = data[:keymap]
       file_name = [Rails.root, data[:file]].join('/')
 
@@ -49,6 +54,8 @@ namespace :data_loader do
         name = keymap[:name].call(feature)
         address = keymap[:address].call(feature)
         type = keymap[:type].call(feature)
+        source_name = keymap[:source_name].call()
+        source_url = keymap[:source_url].call()
 
         location_source = LocationSource.find_or_create_by(name: source_name, url: source_url)
         location_type = LocationType.find_or_create_by(name: type)
@@ -63,6 +70,8 @@ namespace :data_loader do
           location_type_id: location_type,
           location_source_id: location_source
         )
+
+        collection.locations << location
       end
     end
   end
