@@ -68,12 +68,20 @@ namespace :data_loader do
           lat:lat,
           long:long,
           region_id:region_model,
-          location_type_id: location_type,
-          location_source_id: location_source
+          location_type_id: location_type.id,
+          location_source_id: location_source.id
         )
 
         collection.locations << location
       end
     end
+  end
+
+  desc "Make up some collections"
+  task gen_collections: :environment do
+    user = User.find_by(username: "BobLobster")
+    #collection = Collection.find_or_create_by(name: collection_name, user_id: user.id)
+#    Location.select("")
+
   end
 end
