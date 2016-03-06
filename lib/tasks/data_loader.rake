@@ -5,8 +5,8 @@ data_files = {
   crp_farmers_markets: {
     file: 'data_feeds/regional_farmers_market.geojson',
     keymap: {
-      lat: lambda { |hash| hash['geometry']['coordinates'][0]},
-      long: lambda { |hash| hash['geometry']['coordinates'][1]},
+      lat: lambda { |hash| hash['geometry']['coordinates'][1]},
+      long: lambda { |hash| hash['geometry']['coordinates'][0]},
       region: lambda { |hash| hash['properties']['Muni']},
       name: lambda { |hash| hash['properties']['Name']},
       address: lambda { |hash| hash['properties']['Address']},
@@ -19,8 +19,8 @@ data_files = {
   crp_institution: {
       file: 'data_feeds/regional_institutions.geojson',
       keymap: {
-        lat: lambda { |hash| hash['geometry']['coordinates'][0]},
-        long: lambda { |hash| hash['geometry']['coordinates'][1]},
+        lat: lambda { |hash| hash['geometry']['coordinates'][1]},
+        long: lambda { |hash| hash['geometry']['coordinates'][0]},
         region: lambda { |hash| hash['properties']['MUNI']},
         name: lambda { |hash| hash['properties']['NAME']},
         address: lambda { |hash| hash['properties']['ADDRESS']},
@@ -67,7 +67,7 @@ namespace :data_loader do
           address:address,
           lat:lat,
           long:long,
-          region_id:region_model,
+          region_id:region_model.id,
           location_type_id: location_type.id,
           location_source_id: location_source.id
         )
@@ -85,6 +85,13 @@ namespace :data_loader do
       Location.where(location_type_id: location_type.id).find_each() do |location|
         collection.locations << location
       end
+    end
+  end
+
+  desc "Add some pictures to collections"
+  task pic_collections: :environment do
+    Collection.find_each do | collection |
+
     end
   end
 end
