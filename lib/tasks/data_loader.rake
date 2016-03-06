@@ -13,7 +13,7 @@ data_files = {
       type: lambda { |x| "Farmer's Market" },
       source_url: -> { 'http://www.calgaryregionopendata.ca/browse/file/3229' },
       source_name: -> {'CRP Farmers Markets'},
-      collection_name: "Farmer's Markets"
+      collection_name: "Farmer's Market"
     }
   },
   crp_institution: {
@@ -81,7 +81,9 @@ namespace :data_loader do
   task gen_collections: :environment do
     LocationType.find_each do |location_type|
       user = User.order("RANDOM()").first
-      collection = Collection.find_or_create_by(name: location_type.name, user_id: user.id)
+      collection = Collection.find_or_create_by(name: location_type.name)
+      collection.user_id = user.id
+      collection.save
       Location.where(location_type_id: location_type.id).find_each() do |location|
         collection.locations << location
       end
@@ -91,7 +93,8 @@ namespace :data_loader do
   desc "Add some pictures to collections"
   task pic_collections: :environment do
     Collection.find_each do | collection |
-
+      img_filename = collection.name.downcase.gsub(/\s+/, "").gsub(/[^0-9a-z]/i, '')
+      collection.collection_img = img_filename
     end
   end
 end
