@@ -1,5 +1,3 @@
 class Location < ActiveRecord::Base
-  has_one :location_types
-  has_one :location_source
-  has_one :region
+  has_and_belongs_to_many :collections
 end
