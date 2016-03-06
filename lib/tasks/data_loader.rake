@@ -79,9 +79,12 @@ namespace :data_loader do
 
   desc "Make up some collections"
   task gen_collections: :environment do
-    user = User.find_by(username: "BobLobster")
-    #collection = Collection.find_or_create_by(name: collection_name, user_id: user.id)
-#    Location.select("")
-
+    LocationType.find_each do |location_type|
+      user = User.order("RANDOM()").first
+      collection = Collection.find_or_create_by(name: location_type.name, user_id: user.id)
+      Location.where(location_type_id: location_type.id).find_each() do |location|
+        collection.locations << location
+      end
+    end
   end
 end
